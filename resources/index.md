@@ -34,6 +34,7 @@ These web sites are great learning resources and will help you out during the co
 
 ## Even More Information
 
+* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) - community resource for Python best practices
 * [Awesome Python](https://github.com/vinta/awesome-python) - list of great Python libraries, websites, etc
 * [Python Subreddit](https://www.reddit.com/r/python)
 
