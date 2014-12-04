@@ -7,8 +7,9 @@ layout: default
 ## Teacher Contact Info
 
 Clinton Dreisbach
-clinton@theironyard.com
-(919) 360-9150 -- call after 5 PM for emergencies only
+
+* Email: clinton@theironyard.com
+* Phone: (919) 360-9150 -- call after 5 PM for emergencies only
 
 ## Schedule
 
