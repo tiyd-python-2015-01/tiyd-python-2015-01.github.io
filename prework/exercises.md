@@ -17,7 +17,7 @@ This prework focuses on Python 2.7. In class, we will be focusing on Python 3.4.
 ### Command-line
 
 - Read [this Treehouse blog post about command-line basics](http://blog.teamtreehouse.com/command-line-basics). When reading the article, go through all the exercises in the article.
-- Work through [The Command Line Crash Course](The Command Line Crash Course). This is a long undertaking and you could spend eight hours working on this. The author has a brash and possibly abrasive tone. The material is good, however.
+- Work through [The Command Line Crash Course](http://cli.learncodethehardway.org/book/). This is a long undertaking and you could spend eight hours working on this. The author has a brash and possibly abrasive tone. The material is good, however.
 - Complete the [Try Git walkthrough](https://try.github.io/).
 
 ### Bonus prework
