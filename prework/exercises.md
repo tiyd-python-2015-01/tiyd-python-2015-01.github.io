@@ -79,6 +79,6 @@ The following exercises are not required! However, if you find yourself struggli
 
 - [Getting Started - Git Basics](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 - [Git Immersion](http://gitimmersion.com/) - This will be homework during the course, but you can begin early.
-- [Python for You and Me](http://pymbook.readthedocs.org/en/latest/index.html)
+- [Python for You and Me](http://pymbook.readthedocs.org/en/py3/)
 - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/). This is a long undertaking and you could spend eight hours working on this. The author has a brash and possibly abrasive tone. The material is good, however.
 
