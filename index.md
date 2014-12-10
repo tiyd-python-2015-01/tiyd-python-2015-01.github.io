@@ -11,7 +11,6 @@ Welcome to the TIY Durham Python class for Jan-Apr 2015! This site will contain 
 * [Get your Mac!](/syllabus/#materials)
 * [Setup your Mac](/prework/setup.html)
 * [Read through the syllabus](/syllabus/)
-* [Sign up for accounts](/prework/accounts.html)
 * [Complete your prework](/prework/exercises.html)
 
 ## During class
