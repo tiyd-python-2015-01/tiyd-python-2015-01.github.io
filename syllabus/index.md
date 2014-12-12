@@ -50,10 +50,10 @@ By the end of this week, students should be comfortable with:
 * Functions
 * Modules
 * Dictionaries
+* Using Git and GitHub to manage source code
 
 ### Week 2
 
-* Using Git and GitHub to manage source code
 * Debugging
 * Testing your code
 * Tuples
@@ -61,17 +61,18 @@ By the end of this week, students should be comfortable with:
 * Recursion
 * Exceptions
 * Object-oriented programming
+* Algorithmic complexity
+* Search and sort algorithms
 
 ### Week 3: Data
 
-* Algorithmic complexity
-* Search and sort algorithms
 * Loading and manipulating data with pandas
 * Plotting data
 * Common data formats
 * Publicly available data sets
 * Consuming REST APIs
 * Data set quality
+* Simple statistics
 * Basic statistical inquiry
 * NumPy
 
@@ -83,14 +84,13 @@ By the end of this week, students should be comfortable with:
 * NoSQL (MongoDB/NoSQL in Postgres)
 * Stochastic programming
 * Randomness
-* Simple statistics
 * Creating simulations
 * Monte Carlo simulations
 
 ### Week 5: Data
 
 * Neural networks
-* Bayesian filtering
+* Classification algorithms
 * Clustering
 * Recommendation algorithms
 
