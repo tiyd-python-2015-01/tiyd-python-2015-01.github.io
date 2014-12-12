@@ -1,4 +1,4 @@
-tiyd-python-2014-01.github.io
+tiyd-python-2015-01.github.io
 =============================
 
-Public site for the Jan 2014 Python course at TIY Durham.
+Public site for the Jan 2015 Python course at TIY Durham.
