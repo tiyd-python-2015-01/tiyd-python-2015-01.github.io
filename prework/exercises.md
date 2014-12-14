@@ -12,7 +12,7 @@ I don’t believe you can really learn to program by watching a few videos and a
 
 This work should be completed by January 5 and any deliverables should be emailed to me at clinton@theironyard.com by then. I will assume that you have completed this work before class, so you will likely feel very far behind if you haven’t finished when we start class on January 12th.
 
-In order to complete some of these tasks, you will need to register for an account with Treehouse. Treehouse is free for 14 days (which should be more than enough to finish the required courses), and is $25/month after the trial.
+In order to complete some of these tasks, you will need to [register for an account with Treehouse](http://referrals.trhou.se/clintondreisbach). Treehouse is free for 14 days (which should be more than enough to finish the required courses), and is $25/month after the trial.
 
 ## Objectives
 
@@ -36,7 +36,7 @@ GitHub is a web-based hosting and communication service for software development
 
 ### Treehouse
 
-1. Sign up for an account at [Treehouse](https://teamtreehouse.com/home). Signing up does require a credit card, but you will have a free trial for the first 14 days. If you do not have any access to a credit card, that is ok! Let me know via email and I can help you make that happen.
+1. Sign up for an account at [Treehouse](http://referrals.trhou.se/clintondreisbach). Signing up does require a credit card, but you will have a free trial for the first 14 days. If you do not have any access to a credit card, that is ok! Let me know via email and I can help you make that happen.
 2. At the top of the page once you're signed in, you should see your picture. Click on that and go to "view profile." Once you're on your profile, copy the URL and email it to me. The URL will look like this: http://teamtreehouse.com/clintondreisbach, but with your name in the URL instead of mine.
 
 ## Mindset
